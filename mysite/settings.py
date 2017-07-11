@@ -25,8 +25,8 @@ SECRET_KEY = '9yeg=j6oppw!vx3x^b7eu9=22d)=md6^$2=o5*a$$9h99hhl9t'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1']
 
+ALLOWED_HOSTS = ['127.0.0.1','boplight.pythonanywhere.com']
 
 # Application definition
 

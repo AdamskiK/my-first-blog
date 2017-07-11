@@ -1,6 +1,4 @@
 <input type="text" name="search" placeholder="Search..">
-<div>
-
 
 {% for post in posts %}
     <div>
@@ -9,3 +7,4 @@
         <p>{{ post.text|linebreaksbr }}</p>
     </div>
 {% endfor %}
+
